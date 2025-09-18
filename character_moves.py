@@ -24,6 +24,8 @@ def move_bottom():
 
 def move_left():
     print('Moving left')
+    for y in range(50, 550, 5):
+        draw_boy(0, y)
     pass
 
 
