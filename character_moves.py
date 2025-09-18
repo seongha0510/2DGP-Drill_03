@@ -76,8 +76,6 @@ while True:
     move_rectangle()
     move_triangle()
     move_circle()
-    break
-    pass
 
 
 close_canvas()
