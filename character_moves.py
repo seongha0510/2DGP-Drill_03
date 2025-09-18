@@ -79,3 +79,5 @@ while True:
 
 
 close_canvas()
+
+#코파일럿을 통해 작성하고 공부하였습니다.
